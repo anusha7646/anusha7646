@@ -4,7 +4,7 @@
 
 ### 💻 Frontend Developer | 🎓 BCA Graduate
 
-Building **responsive, user-friendly and interactive web experiences**  
+Building **responsive, user-friendly and interactive web interfaces**  
 with clean code and modern frontend technologies.
 
 <p>
@@ -24,21 +24,23 @@ with clean code and modern frontend technologies.
 
 🎓 BCA graduate with a strong interest in **Frontend Development**.
 
-💻 I enjoy creating responsive and interactive websites using **HTML, CSS and JavaScript**.
+💻 I enjoy building responsive, interactive and user-friendly web interfaces.
 
-⚛️ Currently developing my skills in **React.js** and modern frontend development.
+🌐 Skilled in **HTML5, CSS3 and JavaScript** with hands-on experience in responsive web design and DOM manipulation.
+
+⚛️ Familiar with **React.js** and component-based frontend development.
 
 🗄️ Familiar with **SQL, MySQL and CRUD operations**.
 
 🔧 Comfortable working with **Git, GitHub and VS Code**.
 
-🚀 I am looking for an opportunity to start my career as a **Frontend Developer** and contribute to real-world projects while continuously learning.
+🚀 Currently looking for an opportunity to start my career as a **Frontend Developer**, contribute to real-world projects, and continue improving my development skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
@@ -50,31 +52,32 @@ with clean code and modern frontend technologies.
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
 ### 🐍 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 ---
 
 ## 🎯 Core Skills
 
-| 💡 Skill | 🔍 Focus |
+| 💡 Skill | 🔍 Knowledge |
 |---|---|
 | 🌐 Web Development | HTML5, CSS3, JavaScript |
 | 📱 Responsive Design | Mobile-friendly & adaptive layouts |
-| ⚡ JavaScript | DOM manipulation & interactive features |
-| ⚛️ React.js | Components & frontend development |
-| 🗄️ SQL | Queries, CRUD & database operations |
-| 🐛 Debugging | Finding and fixing frontend issues |
-| 🔄 Version Control | Git & GitHub |
+| ⚡ JavaScript | DOM Manipulation & Interactive Features |
+| ⚛️ React.js | Components & Frontend Development |
+| 🗄️ SQL | Queries & Database Operations |
+| 🔄 CRUD | Create, Read, Update & Delete |
+| 🐛 Debugging | Identifying & Fixing Code Issues |
+| 📦 Version Control | Git & GitHub |
 
 ---
 
@@ -84,86 +87,97 @@ with clean code and modern frontend technologies.
 
 **Web Development Project using Python & MySQL**
 
-During my internship, I gained practical exposure to:
+During my internship at NLC India Limited, I gained practical exposure to software development, database management and web application development.
 
-- 🐍 Python programming
-- 🗄️ MySQL database management
-- 🌐 HTML, CSS & JavaScript
-- 🔄 CRUD operations
-- 💻 Web application development
-- 🛠️ Software development practices
+### 💻 Technologies & Concepts
+
+- 🐍 Python
+- 🗄️ MySQL
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🔄 CRUD Operations
+- 💾 Database Management
+- 💻 Software Development
 
 ### 📌 Internship Project
 
 **System Information Web Application**
 
-A web application developed to collect system information such as:
+A web application developed to collect and display system information and check whether a system is active.
 
-- System Serial Number
-- MAC Address
-- IP Address
-- System Active Status
+The application works with information such as:
 
-**Technologies:** Python • Flask • MySQL • HTML • CSS • JavaScript
+- 🔢 System Serial Number
+- 💻 MAC Address
+- 🌐 IP Address
+- 🟢 System Active Status
+
+**Technologies:**  
+Python • Flask • MySQL • HTML • CSS • JavaScript
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚌 College Transport Information Portal
+### ⚛️ React Frontend Project
 
-A responsive college transportation information portal that helps students find:
+A responsive frontend web application developed using **React.js, JavaScript, HTML5 and CSS3**.
 
-- 🚌 Bus routes
-- 📍 Pickup points
-- 🕐 Bus timings
-- 🔎 Search & filter options
+### ✨ Key Features
 
-**Tech:** HTML5 • CSS3 • JavaScript • Responsive Design
+- 🧩 Built reusable React components with structured UI
+- ⚡ Implemented interactive user interface elements
+- 💻 Added client-side functionality using JavaScript and React
+- 📱 Designed responsive layouts for different screen sizes
+- 🎨 Created a clean and user-friendly interface
 
----
+**Technologies:**  
+React.js • JavaScript • HTML5 • CSS3
 
-### 💎 Lumière Jewellery Website
+🔗 **[Live Demo](https://anusha7646.github.io/react-frontend-project/)**
 
-A responsive jewellery website designed with a clean and elegant interface.
 
-**Features:**
+### 🌿 Solace House – Responsive Hotel Website
 
-- 🏠 Home
-- 🛍️ Shop
-- ✨ Customize
-- 💛 Collections
-- 📖 About
-- 📩 Contact
+A responsive multi-page hotel website developed using **HTML5, CSS3 and JavaScript**.
 
-**Tech:** HTML • CSS • JavaScript
+### ✨ Key Features
 
----
+- 🏨 Hotel information, rooms and services
+- 📖 Booking-related sections
+- 📱 Responsive layouts for different screen sizes
+- 🧭 Interactive navigation
+- 🔎 Search functionality
+- 🔘 Interactive buttons and frontend elements
+- ⚡ JavaScript-based interactions
+- 🌐 DOM manipulation
+- 🎨 Structured HTML and reusable CSS styling
 
-### 🌿 Solace House Website
-
-A responsive website focused on a clean and visually appealing user experience.
-
-**Tech:** HTML • CSS • JavaScript
+**Technologies:**  
+HTML5 • CSS3 • JavaScript • DOM Manipulation • Responsive Web Design
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
-Annamalai University, Chidambaram
+### Bachelor of Computer Applications (BCA)
+
+**Annamalai University, Chidambaram**
 
 ---
 
 ## 🌱 Currently Learning
 
 ```text
-Frontend Development
-       ↓
+HTML & CSS
+     ↓
 JavaScript
-       ↓
-React.js
-       ↓
+     ↓
+DOM Manipulation
+     ↓
 Responsive Web Design
-       ↓
+     ↓
+React.js
+     ↓
 Building Real-World Projects
