@@ -157,6 +157,8 @@ A responsive multi-page hotel website developed using **HTML5, CSS3 and JavaScri
 **Technologies:**  
 HTML5 • CSS3 • JavaScript • DOM Manipulation • Responsive Web Design
 
+🔗 **[Live Demo](https://anusha7646.github.io/solace-house/)**
+
 ---
 
 ## 🎓 Education
